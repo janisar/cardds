@@ -1,0 +1,19 @@
+body {
+    font-family: SansSerif, serif;
+}
+
+.banner {
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("https://www.androidguys.com/wp-content/uploads/2018/06/armenia_aragats_hayk-wallpaper-3840x2400-1068x668.jpg");
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 12vh;
+    color: #f1f1f1;
+}
